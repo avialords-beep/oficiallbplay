@@ -1,0 +1,9 @@
+# Разрешаем индексацию всего сайта
+User-agent: *
+Allow: /
+
+# Указываем путь к sitemap.xml
+Sitemap: https://luckybear-play.ru/sitemap.xml
+
+# Host для Яндекса
+Host: luckybear-play.ru
